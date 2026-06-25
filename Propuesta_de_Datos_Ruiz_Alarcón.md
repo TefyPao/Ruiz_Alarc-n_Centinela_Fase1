@@ -1,7 +1,9 @@
 # Propuesta de Datos — Proyecto Centinela, Fase 1
 
 **Autora:** Estefanny Ruíz González_Miguel Alarcón Ojeda
+
 **Curso:** Profundización I — Redes Neuronales / Deep Learning 
+
 **Maestría en Ciencia de Datos — Universidad Santo Tomás**
 
 ---
