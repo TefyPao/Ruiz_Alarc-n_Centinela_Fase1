@@ -23,7 +23,6 @@ Este problema es la base del proyecto de grado de los autores (línea de investi
 - **Modalidad aplanada en esta Fase 1 — Serie temporal económica:** variables macroeconómicas mensuales (IPC de Bogotá, TRM, salario nominal, rezagos de estas series) tratadas como vector de características tabulares por periodo.
 - **Modalidad prevista para la Fase 2 — Serie temporal nativa:** las mismas variables, sin aplanar, procesadas con una arquitectura recurrente (RNN/LSTM/GRU) que explote la dependencia secuencial mes a mes.
 
-*Nota:* a diferencia del escenario de referencia (imagen + clima), este proyecto usa **dos representaciones de la misma fuente de datos** (tabular vs. secuencial), no dos fuentes distintas. Esta decisión está en consulta con el docente; en caso de que se requiera una segunda modalidad independiente (p. ej., imágenes satelitales de luminosidad nocturna como proxy de actividad económica regional), se ajustará en la versión final de esta propuesta.
 
 ## 3. Fuentes de datos
 
