@@ -15,7 +15,7 @@ Este proyecto propone un **sistema de alerta temprana ("Centinela")** que predig
 
 **Posibles Cliente:** un analista de política pública o de un sindicato/gremio laboral que necesita anticipar —no solo describir después del hecho— los periodos en que el salario mínimo perderá poder de compra, para sustentar decisiones de ajuste salarial o de política económica.
 
-Este problema es la base del proyecto de grado de los autores (línea de investigación en poder adquisitivo del SMLV), aquí adaptado al formato de predicción de evento de riesgo que exige esta fase.
+Este problema es la base de nuestro proyecto de grado (línea de investigación en poder adquisitivo del SMLV), aquí adaptado al formato de predicción de evento de riesgo que exige esta fase.
 
 ## 2. Las dos modalidades previstas para el sistema completo
 
